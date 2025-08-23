@@ -1,8 +1,9 @@
 { 
-"versionCode": 13,
-"versionName": 1.1.8,
-"updateMessage": "",
-"playStoreUrl": "https://play.google.com/store/apps/details?id=com.themddevelopers.islamicknowledges",
-"webUrl": "",
-"whatsNew": ""
+  "versionCode": 14,
+  "versionName": 1.1.9,
+  "updateTitle": "Update v1.1.9",
+  "updateMessage": "",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.themddevelopers.islamicknowledges",
+  "webUrl": "",
+  "whatsNew": ""
 }
